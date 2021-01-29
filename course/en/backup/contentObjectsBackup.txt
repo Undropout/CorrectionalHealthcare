@@ -1,0 +1,73 @@
+,
+    {
+        "_id": "co-10",
+        "_parentId": "course",
+        "_type": "page",
+        "_classes": "",
+        "_htmlClasses": "",
+        "title": "Overview",
+        "displayTitle": "Correctional Healthcare Overview",
+        "body": "Learn commonly-used terms, different roles, the intake process, and the sick call process.",
+        "pageBody": "Learn commonly-used terms, different roles, the intake process, and the sick call process.",
+        "instruction": "Scroll down to complete the introduction to the correctional healthcare process.",
+        "_graphic": {
+            "src": "course/en/images/menu-item.png",
+            "alt": ""
+        },
+        "linkText": "View",
+        "duration": "2 mins",
+        "_pageLevelProgress": {
+            "_isEnabled": true,
+            "_showPageCompletion": false,
+            "_excludeAssessments": false,
+            "_isCompletionIndicatorEnabled": false
+        }
+    },
+    {
+        "_id": "co-15",
+        "_parentId": "course",
+        "_type": "page",
+        "_classes": "assessment",
+        "_htmlClasses": "",
+        "title": "Practical Exercise",
+        "displayTitle": "Practical Exercise: Patient's Journey",
+        "body": "Take control of a patient's journey through the correctional healthcare process.",
+        "pageBody": "Now that you have learned about the processes of correctional healthcare, it's time to experience a patient's journey as they interact with healthcare providers.<br><br>Take control of a patient's choices as they go through intake and sick call procedures.",
+        "instruction": "Choose a patient.<br><br>The choices you make will decide the flow of the patient's story.",
+        "_graphic": {
+            "src": "course/en/images/menu-item.png",
+            "alt": ""
+        },
+        "linkText": "View",
+        "duration": "2 mins",
+        "_pageLevelProgress": {
+            "_isEnabled": true,
+            "_showPageCompletion": false,
+            "_excludeAssessments": false,
+            "_isCompletionIndicatorEnabled": false
+        }
+    },
+    {
+        "_id": "co-25",
+        "_parentId": "course",
+        "_type": "page",
+        "_classes": "",
+        "_htmlClasses": "",
+        "title": "Evaluation",
+        "displayTitle": "Final Exam",
+        "body": "After completing at least one patient's journey, take an assessment to test what you have learned about patient journeys in correctional healthcare.",
+        "pageBody": "Welcome.",
+        "instruction": "Please answer the following questions.",
+        "_graphic": {
+            "src": "course/en/images/menu-item.png",
+            "alt": ""
+        },
+        "linkText": "View",
+        "duration": "2 mins",
+        "_pageLevelProgress": {
+            "_isEnabled": true,
+            "_showPageCompletion": false,
+            "_excludeAssessments": false,
+            "_isCompletionIndicatorEnabled": false
+        }
+    }
